@@ -1,0 +1,1 @@
+# AZ-900-Microsoft-Azure-Fundamentals.ja-jp
